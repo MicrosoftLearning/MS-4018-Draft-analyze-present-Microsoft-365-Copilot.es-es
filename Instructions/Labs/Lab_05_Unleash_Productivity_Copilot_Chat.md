@@ -49,7 +49,7 @@ Ahora que ya tienes una idea de las posibles preguntas, puedes considerar tus re
 
 1. En el mismo chat de Copilot, indica lo siguiente a Copilot:
 
-    +++Redacta un borrador de respuestas para las siguientes preguntas: [Lista de preguntas].+++
+    +++Redacta respuestas para las siguientes preguntas: [copia y pega aquí la lista de preguntas].+++
 
     Dado que Copilot Chat es una experiencia iterativa, tiene en cuenta el contexto de las interacciones de chat anteriores en la misma ventana.
 
@@ -59,17 +59,21 @@ Ahora que ya tienes una idea de las posibles preguntas, puedes considerar tus re
 
 Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot en Word para compilar las preguntas y respuestas en un documento de preguntas más frecuentes.
 
-1. Abre Microsoft Word e inicia un nuevo documento.
+1. En la misma ventana de Copilot Chat, indica lo siguiente a Copilot: 
 
-1. En la cinta de opciones Inicio, selecciona el icono de Copilot: El panel de Copilot se abre en la parte derecha de la pantalla.
+    +++Crea un documento de Word con esta salida.+++
 
-1. Escribe la siguiente indicación:
+    Copilot genera un nuevo documento de Word titulado **Documento de preguntas frecuentes**.
 
-    +++Crea un documento de preguntas más frecuentes con las siguientes preguntas y respuestas: [lista de preguntas y respuestas copiada de Copilot Chat].+++
+1. Abre este documento para revisarlo.
 
-1. Revisa el documento y dale formato según sea necesario.
+1. Habilita la edición para comprobar y actualizar el documento según sea necesario. 
 
-#### Ejercicio 6: Envío de un correo electrónico de agradecimiento con Copilot en Outlook
+1. Selecciona **Archivo > Guardar como**. Examina y navega a la carpeta de OneDrive.
+
+1. Guarde el documento como **Documento de preguntas frecuentes**.
+   
+#### (Opcional) Ejercicio 6: Envío de un correo electrónico de agradecimiento con Copilot en Outlook
 
 1. Abre Outlook y selecciona el botón **Nuevo correo electrónico** para empezar a redactar tu nota de agradecimiento.
 

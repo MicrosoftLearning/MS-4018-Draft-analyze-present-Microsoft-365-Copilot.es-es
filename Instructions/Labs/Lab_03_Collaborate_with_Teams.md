@@ -6,12 +6,12 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 1. Abre Microsoft Teams; para ello, ve a la siguiente dirección URL: [https://teams.microsoft.com](https://teams.microsoft.com).
 
-1. Para empezar, crea un nuevo canal en el chat de tu equipo para esta conversación. Selecciona **Nuevo canal** en el menú desplegable Chat.
+1. Para empezar, crea un nuevo Equipo en el chat de tu equipo para esta conversación. Selecciona **Nuevo Equipo** en el menú desplegable Chat.
 
-    - Agrega el canal a un equipo: **Personas y referencias culturales**
-    - Nombre del canal: +++Contoso Connect+++.
+    - Agrega el Equipo: +++Personas y cultura+++
     - Descripción: déjela en blanco
-    - Tipo de canal: **Privado**
+    - Tipo de Equipo: **Privado**
+    - Nombre del canal: +++Contoso Connect+++.
     - Agregar miembros: selecciona **Omitir**
 
 1. Selecciona **Iniciar una publicación** para abrir la ventana de chat.

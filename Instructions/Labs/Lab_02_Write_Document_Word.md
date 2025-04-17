@@ -11,7 +11,7 @@ En este laboratorio, crearemos indicaciones para Microsoft 365 Copilot que hagan
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Ejercicio 1: Importación de notas (opcional)
+#### (Opcional) Ejercicio 1: Importación de notas 
 
 1. Abre Microsoft Word y crea un nuevo documento.
 
@@ -40,8 +40,10 @@ Vamos a crear un informe de proyecto con el análisis de mercado que ya has reco
 
 1. Escribe la siguiente indicación:
 
-    +++Crea un informe de proyecto basado en el contenido de /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Incluye un resumen ejecutivo, una introducción, los objetivos del proyecto y un debate.+++
+    +++Crea un informe de proyecto que incluye un resumen ejecutivo, una introducción, los objetivos del proyecto y un debate.+++ Usa el documento vinculado como un recurso de contenido. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
 
+1. Agrega la referencia del documento a tu indicación; para ello, escribe manualmente una barra diagonal seguida del nombre del documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, puedes seleccionar el archivo de la lista desplegable una vez que esté disponible en OneDrive.
+   
 1. Revisa el contenido redactado y selecciona **Mantener**.
 
 1. A medida que revises el contenido del documento, es posible que encuentres algún texto que se debe editar o reescribir. La sección Descripción del producto parece ser bastante corta y técnica. Vamos a editar el texto para que sea más atractivo para nuestros lectores.
@@ -91,7 +93,7 @@ A medida que complete el documento, desea asegurarse de que los puntos clave se 
 
     +++Resume este documento. Resalta los tres puntos principales realizados.+++
 
-1. Revisa el resumen generado y selecciona **Insertar** si quieres incluir el resumen en el documento.
+1. Revisa el resumen generado y selecciona **Insertar** si quieres incluir el resumen en el documento. También puede resaltar cualquier parte del texto para luego copiarlo y pegarlo en el documento.
 
 > [!IMPORTANT]
 > El texto que genera Copilot se inserta en la ubicación del cursor en el documento. Asegúrese de haber navegado hasta el final del documento antes de seleccionar insertar el contenido.

@@ -26,6 +26,8 @@ Para hacerte una idea de las tendencias del mercado, primero debes comprender el
 
 1. Selecciona **Agregar a una nueva hoja** para incluir estos datos en tu libro de Excel.
 
+1. Revisa la tabla. Cuando hayas terminado, selecciona **Volver a los datos** para volver a la hoja 1.
+
 #### Ejercicio 2: Identificación de tendencias de ventas
 
 Como jefe de ventas, debes identificar tendencias en los datos de ventas para tomar decisiones informadas. Echemos un vistazo a las ventas totales de Chai durante el año y busquemos los patrones o tendencias que pueden ayudar a mejorar las estrategias de ventas.
@@ -38,6 +40,8 @@ Como jefe de ventas, debes identificar tendencias en los datos de ventas para to
 
 1. Revisa la respuesta de Copilot y si deseas agregar el gráfico dinámico a una nueva hoja.
 
+1. Si has agregado un nuevo gráfico dinámico, selecciona **Volver a los datos** para volver a la hoja 1.
+   
 1. Para obtener una vista rápida de los meses con las ventas más exitosas, escribe la siguiente indicación:
 
     +++Resalta los tres meses con las ventas totales más altas.+++
@@ -56,9 +60,11 @@ Para optimizar tus ofertas de productos, debes comparar las ventas de diferentes
 
 1. Copilot muestra el gráfico de barras. Selecciona **Agregar a una nueva hoja**.
 
-    En los meses de verano las ventas pueden variar mucho. Para comprender qué tipo de té se vende mejor, puedes pedir a Copilot que determine qué categoría de producto ha tenido un mejor rendimiento en general, mediante la siguiente indicación:
+1. Una vez que hayas revisado los resultados del gráfico de barras, selecciona **Volver a los datos** para volver a la hoja 1.
+   
+En los meses de verano las ventas pueden variar mucho. Para comprender qué tipo de té se vende mejor, puedes pedir a Copilot que determine qué categoría de producto ha tenido un mejor rendimiento en general, mediante la siguiente indicación:
 
-    +++Resume las ventas totales (unidades) de Artisanal Chai y Premade Chai durante el verano.+++
+    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
 #### Ejercicio 4: Cálculo de ventas totales
 
@@ -98,7 +104,7 @@ Por último, vamos a resumir la información clave del análisis. Esta informaci
 
 Una vez que recopiles información sobre las tendencias de mercado, puedes compartir la información con las partes interesadas. Este es el modo en que Copilot en Outlook puede ayudarte a:
 
-1. **Copiar** la respuesta generada por Copilot en Excel.
+1. **Copia** la respuesta generada por Copilot en Excel.
 
 1. Abrir Microsoft Outlook y seleccionar **Nuevo correo electrónico**.
 
