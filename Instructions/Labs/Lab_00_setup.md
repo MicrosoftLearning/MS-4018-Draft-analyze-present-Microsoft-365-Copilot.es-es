@@ -14,29 +14,22 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 
 1. Inicia sesión en la máquina virtual proporcionada por el proveedor de inquilinos con la cuenta de **administrador** local con la contraseña `Pa55w.rd`.
 
-2. En la barra de tareas de Windows, selecciona **Microsoft Edge**.
+2. Abre la aplicación **OneDrive** escribiendo **OneDrive** en la barra de búsqueda de Windows.
 
-3. En la barra de direcciones, escribe `https://onedrive.live.com/login`.
+3. En el campo **Dirección de correo electrónico**, escribe userx@yourtenant.onmicrosoft.com (proporcionada por tu proveedor de inquilinos) y selecciona **Iniciar sesión**.
 
-4. En **Bienvenido a Microsoft 365**, selecciona **Iniciar sesión**.
+4. En la pantalla **Escribir contraseña**, escribe la contraseña 1 (proporcionada por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
 
-5. En la **solicitud de inicio de sesión**, escribe userx@yourtenant.onmicrosoft.com (proporcionado por el proveedor de inquilinos) y selecciona **Siguiente**.
+5. Si se te pide **Iniciar sesión automáticamente en todas las aplicaciones de escritorio y los sitios web de este dispositivo?** selecciona **Sí, todas las aplicaciones**.
 
-6. En la pantalla **Escribir contraseña**, escribe la contraseña 1 (proporcionada por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
+6. Abre la carpeta de OneDrive.
+   
+7. En una nueva instancia del **Explorador de archivos**, selecciona **Este equipo** > **Disco local (C:)** y abre la carpeta **MS-4018 ResourceFiles**.
 
-7. Si se te pide **Mantener la sesión iniciada**, selecciona **No volver a mostrar** y **Sí**.
+8. Selecciona todos los archivos dentro de la carpeta **MS-4018 ResourceFiles** y luego arrástralos y colócalos en la carpeta de OneDrive.
 
-8. En **OneDrive**, en la esquina superior izquierda, selecciona **+** (agregar nuevo) > **Carga de archivo**.
+9. Una vez completada la carga, deberías ver **Se han cargado 3 elementos en Mis archivos** en el centro inferior de la pantalla.
 
-    ![Captura de pantalla de Agregar nuevo archivo](../Labs/Media/add_new.png)
-
-9. En **Explorador de archivos**, selecciona **Este equipo** > ** Disco local (C:)** y abre la carpeta **ResourceFiles**.
-
-10. Selecciona todos los archivos de la carpeta **ResourceFiles** y, después, selecciona **Abrir** para cargarlos en **OneDrive**.
-
-11. Una vez completada la carga, deberías ver **Se han cargado 29 elementos en Mis archivos** en el centro inferior de la pantalla.
-
-12. Deja **Edge** abierto y ve a la siguiente tarea.
 
 ### Hacer referencia a archivos
 
