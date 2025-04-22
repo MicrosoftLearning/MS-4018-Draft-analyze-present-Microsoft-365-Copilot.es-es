@@ -4,7 +4,7 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 #### Ejercicio 1: Escribir un mensaje atractivo para presentar tu idea
 
-1. Abre Microsoft Teams; para ello, ve a la siguiente dirección URL: [https://teams.microsoft.com](https://teams.microsoft.com).
+1. Abre Microsoft Teams, para ello, ve a la siguiente dirección URL: [teams.microsoft.com](https://teams.microsoft.com) o a través de la aplicación de escritorio.
 
 1. Para empezar, crea un nuevo Equipo en el chat de tu equipo para esta conversación. Selecciona **Nuevo Equipo** en el menú desplegable Chat.
 
@@ -16,9 +16,9 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 1. Selecciona **Iniciar una publicación** para abrir la ventana de chat.
 
-1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Introduce +++¡Hola equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?+++
+1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Copia y pega el siguiente texto en el cuadro de texto: ¡Hola Equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?
 
-1. Seleccione el icono **Reescribir con Copilot** en la parte inferior del cuadro de mensaje.
+1. Antes de publicar el mensaje, selecciona el icono **Reescribir con Copilot** en la parte inferior del cuadro de mensaje.
 
 1. Elija la opción de **Reescritura** para generar otra versión del mensaje que mejore su gramática y estilo. Puede reescribir el mensaje hasta 10 veces, generando en cada ocasión una nueva versión. Use las flechas izquierda y derecha debajo del texto para navegar por las versiones.
 
@@ -38,7 +38,7 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 Ahora quieres programar una reunión para intercambiar ideas sobre algunos comentarios con tu equipo. Puedes usar Copilot en Outlook para encontrar el mejor momento en función de la disponibilidad del equipo y redactar el cuerpo de la invitación a la reunión para incluir los puntos clave que has pedido a Copilot que responda desde el chat de la reunión.
 
-1. Abre Microsoft Outlook; para ello, ve a la siguiente dirección URL: [https://outlook.office.com](https://outlook.office.com).
+1. Abre Microsoft Outlook en el explorador [outlook.office.com](https://outlook.office.com) o la aplicación de escritorio.
 
 1. Selecciona el icono **Copilot** de la barra de herramientas de **Inicio** para abrir el panel de Copilot.
 
@@ -54,7 +54,7 @@ Ahora quieres programar una reunión para intercambiar ideas sobre algunos comen
 
     +++para analizar el próximo lanzamiento del producto, revisar la escala de tiempo del proyecto y asignar tareas.+++
 
-    Una vez hecho esto, selecciona **Enviar** o presiona Entrar en el teclado.
+    Una vez hecho esto, selecciona **Generar** o presiona Entrar en el teclado.
 
 1. Copilot creará un borrador de la invitación a la reunión. Revisa la sugerencia, pero no selecciones **Conservarlo**. En su lugar, escribe la siguiente indicación:
 

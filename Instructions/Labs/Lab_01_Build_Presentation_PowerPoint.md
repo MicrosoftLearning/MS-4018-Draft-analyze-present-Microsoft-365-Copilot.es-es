@@ -2,7 +2,7 @@
 
 Imagina que eres director de marketing en una empresa llamada Contoso. Tu equipo de trabajo se está preparando para una reunión con un cliente importante en la que necesita presentar la estrategia de la empresa para que una nueva línea de productos de té Chai se venda en América Latina. Tu objetivo es crear una presentación atractiva que resalte las características, beneficios y casos de uso del producto, a la vez que garantiza que cumple los estándares de personalización de marca de la empresa. Ya desarrollaste un plan de negocio para este producto y quieres usar ese contenido al preparar la reunión. Debes colaborar con tu equipo de trabajo y hacer que tu gerente la revise antes de la reunión.
 
-Al final de este laboratorio, podrás crear una nueva presentación, basada en un documento de Word, insertar una imagen, editar texto, organizar la presentación, incorporar estándares de personalización de marca corporativas y enviar un borrador de la presentación a tu administrador para su revisión, mediante Copilot en PowerPoint.
+Al final de este laboratorio, podrás crear una nueva presentación, basada en un documento de Word, insertar una imagen, editar texto, organizar la presentación, incorporar estándares de personalización de marca corporativa y enviar un borrador de la presentación a tu administrador para su revisión, mediante Copilot en PowerPoint.
 
 ### Archivo de muestra
 
@@ -10,17 +10,17 @@ En este laboratorio, crearemos indicaciones para Microsoft 365 Copilot que hagan
 
 [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
 
-#### Ejercicio 1: Crear una nueva presentación basada en un documento de Word
+#### Ejercicio 1: Creación de una nueva presentación basada en un documento de Word
 
-1. Abre PowerPoint y crea una nueva presentación.
+1. Abre PowerPoint con la aplicación de escritorio o en el explorador en [powerpoint.new](https://powerpoint.new) e inicia una nueva presentación.
 
-1. Selecciona el icono de **Copilot** y usa Copilot para generar un borrador de presentación con la siguiente indicación:
+1. Selecciona el icono de **Copilot** y usa Copilot para generar un borrador de presentación mediante la siguiente indicación:
 
-    +++Crea una presentación sobre el té Chai de Contoso basado en +++
+    +++Crea una presentación sobre el té de Chai de Contoso basada en+++
 
-1. En el cuadro de diálogo de indicación, escribe una barra diagonal (/) seguida del nombre del archivo **(Promotion Plan for Chai Tea in Latin America.docx)**. Si el archivo no se rellena en la lista, selecciona la flecha arriba y, después, **adjunta los archivos en la nube**. Ve a **Mis archivos** y selecciona el documento en la carpeta de OneDrive.
+1. En el cuadro de diálogo de indicación, escribe una barra diagonal (/) seguida del nombre del archivo **(Promotion Plan for Chai Tea in Latin America.docx).** Si el archivo no se rellena en la lista, selecciona el botón más y, después, **Adjuntar**. Ve a **Mis archivos** y selecciona el documento en la carpeta de OneDrive.
    
-1. Copilot muestra un esquema de presentación que indica las posibles diapositivas y puntos con viñetas que se incluirán en cada diapositiva. Revisa el tema sugerido y selecciona **Generar diapositivas** para continuar. Copilot genera diapositivas y contenido para cada una. Muestra los resultados en la vista **Clasificador de diapositivas**.
+1. Copilot muestra un esquema de presentación que indica las posibles diapositivas y puntos con viñetas que se incluirán en cada diapositiva. Revisa el tema sugerido y selecciona **Generar diapositivas** para continuar. Copilot genera diapositivas y contenido para cada una. La presentación puede mostrar los resultados en el **clasificador de diapositivas** o en la vista **Normal**.
 
 1. Revisa las diapositivas y selecciona **Conservarlo** para continuar.
 
@@ -30,13 +30,13 @@ En este laboratorio, crearemos indicaciones para Microsoft 365 Copilot que hagan
 
 Dado que esta presentación se hará tanto en persona como virtualmente, vamos a dar a nuestro público unos minutos para que los asistentes se incorporen sin que se pierdan información importante. Copilot puede ayudar a generar una idea y luego una diapositiva para romper el hielo de forma divertida y mantener ocupado a nuestro público mientras otras personas se incorporan.
 
-1. Vamos a cambiar primero la vista en PowerPoint. Selecciona **Vista -> Normal**.
+1. Vamos a cambiar primero la vista en PowerPoint, si es necesario. Selecciona **Vista -> Normal**.
 
 1. Vuelve a la vista de la barra de herramientas **Inicio**.
 
-1. Abre el panel Copilot y escribe la siguiente indicación:
+1. Abre el panel de Copilot y escribe la siguiente indicación:
 
-     +++¿Puedes ayudarme a escribir una pregunta para romper el hielo que sea buena para todos los públicos? Proporciona tres opciones entre las que elegir.+++
+     +++¿Puedes ayudarme a pensar una pregunta para romper el hielo que sea buena para un público global? Proporciona tres opciones entre las que elegir.+++
 
      Copilot responde con sugerencias para romper el hielo. Si ninguna de estas preguntas se ajusta a lo que buscas, pide a Copilot que genere más sugerencias.
 
@@ -48,7 +48,7 @@ Dado que esta presentación se hará tanto en persona como virtualmente, vamos a
 
     Ahora, tienes una excelente manera de iniciar una conversación entre los participantes de la reunión. Echemos un vistazo a la presentación ahora y veamos cómo podemos hacerla aún más potente.
 
-#### Ejercicio 3: Insertar una imagen
+#### Ejercicio 3: Inserción de una imagen
 
 Aunque Copilot incluye imágenes a medida que crea diapositivas, quizás quieras agregar o editar una imagen para que sea más específica para la presentación. Puedes pedir a Copilot que incluya una imagen de la biblioteca corporativa aprobada, siempre que el administrador haya establecido las configuraciones adecuadas o que genere una imagen basada en una idea que tengas.
 
@@ -69,47 +69,47 @@ Aunque Copilot incluye imágenes a medida que crea diapositivas, quizás quieras
 
 1. Elimina la imagen original y edita la nueva para que se ajuste mejor al espacio en la diapositiva.
 
-#### Ejercicio 4: Editar el texto
+#### Ejercicio 4: Edición de texto
 
-A medida que revises la presentación, puedes decidir que el texto generado por Copilot no se ajusta totalmente a tus necesidades. Usa Copilot para perfeccionar el texto de las diapositivas. Por ejemplo, puedes escribir *Edita el texto de esta diapositiva para que sea más conciso* o *Haz que este texto sea más atractivo para el lector*. Veamos cómo hacerlo:
+A medida que revises la presentación, puedes decidir que el texto generado por Copilot no se ajusta totalmente a tus necesidades. Usa Copilot para perfeccionar el texto de las diapositivas. Por ejemplo, puedes escribir *Edita el texto de esta diapositiva para que sea más concisa* o *Haz que este texto sea más atractivo para el lector*. Veamos cómo hacerlo:
 
-1. Ve a la diapositiva que contiene el texto que puedes editar.
+1. Ve a la diapositiva que contiene el texto que quieres editar.
 
 1. En el panel Copilot, escriba la indicación siguiente:
 
     +++Edita este texto para que sea más conversacional.+++
 
-1. Copia y pega el texto que deseas editar en el diálogo de indicación de Copilot y selecciona **Enviar**.
+1. Copia y pega el texto que deseas editar en el cuadro de diálogo de indicación de Copilot y selecciona **Enviar**.
 
 1. Revisa las sugerencias que ofrece Copilot, luego corta y pégalas en la diapositiva, y haz los ajustes necesarios.
 
-#### Ejercicio 5: Organizar la presentación
+#### Ejercicio 5: Organización de la presentación
 
 A medida que revises la presentación, es posible que los temas de la presentación se deban identificar con más claridad. Puedes usar Copilot en PowerPoint para introducir esta claridad.
 
 1. En el panel Copilot, escriba la indicación siguiente:
 
-    +++Organiza la presentación.+++
+    +++Organiza esta presentación.+++
 
-1. Copilot responde que la organización de las diapositivas reemplazará las secciones existentes. Selecciona **Sí** para continuar.
+1. Copilot responde proporcionando sugerencias para cada diapositiva. Puedes elegir actualizar el contenido como quieras o iterar la indicación para recibir sugerencias adicionales. 
 
 1. Asegúrate de que la presentación tiene una secuencia lógica y transiciones fluidas entre las diapositivas.
 
-#### (Opcional) Ejercicio: Enviar un borrador para su revisión
+#### (Opcional) Ejercicio: Envío de un borrador para su revisión
 
 Una vez que estés satisfecho con la presentación, usa Copilot en Outlook para redactar un correo electrónico al administrador para su revisión.
 
-1. Ve a Outlook y selecciona **Nuevo correo**.
+1. Abre Microsoft Outlook en el explorador [outlook.office.com](https://outlook.office.com) o la aplicación de escritorio y selecciona **Correo nuevo**.
 
 1. Selecciona el icono de **Copilot** en la ventana de composición del correo electrónico.
 
 1. Escribe la siguiente indicación:
 
-    +++Redacta un correo electrónico para mi administrador, [Nombre del administrador]. Pide una revisión de la presentación que adjunté a este correo electrónico. Escribe el correo electrónico en un tono casual.+++
+    +++Redacta un correo electrónico para pedir la revisión de la presentación que adjunté a este correo electrónico. Escribe el correo electrónico en un tono casual.+++
 
 1. Selecciona **Redactar con Copilot**.
 
-1. Revisa el borrador de correo electrónico, realiza las modificaciones necesarias y envíelo.
+1. Revisa el borrador de correo electrónico, realiza las modificaciones necesarias y envíalo al destinatario previsto.
 
 ¡Y así, estás listo para impresionar a tu administrador con una presentación refinada! Disfruta de la presentación.
 

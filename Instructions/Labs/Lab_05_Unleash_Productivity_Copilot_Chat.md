@@ -9,7 +9,9 @@ Imagina que vas a hacer una entrevista para un puesto en Contoso, una empresa me
 
 Usa Copilot Chat en Teams para recopilar información sobre el entrevistador y su rol. Esta investigación te ayuda a hacerte una mejor idea de con quién vas a hablar y cuáles son sus responsabilidades. Siempre es recomendable conocer un poco a la persona que está al otro lado de la mesa.
 
-1. Abre Microsoft Teams y selecciona el icono de Copilot Chat en la parte izquierda de la pantalla.
+1.  Abre Microsoft Teams, para ello, ve a la siguiente dirección URL: [teams.microsoft.com](https://teams.microsoft.com) o a través de la aplicación de escritorio.
+
+1.  Selecciona el icono de Copilot Chat en la parte izquierda de la pantalla.
 
 1. Asegúrate de que el control de alternancia de la parte superior de la pantalla está en **Web**.
 
@@ -57,11 +59,11 @@ Ahora que ya tienes una idea de las posibles preguntas, puedes considerar tus re
 
 #### Ejercicio 5: Creación de un documento de preguntas más frecuentes
 
-Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot en Word para compilar las preguntas y respuestas en un documento de preguntas más frecuentes.
+Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot para crear las preguntas y respuestas en un documento de Word de preguntas más frecuentes.
 
 1. En la misma ventana de Copilot Chat, indica lo siguiente a Copilot: 
 
-    +++Crea un documento de Word con esta salida.+++
+    +++Crea un documento de Word .docx con esta salida.+++
 
     Copilot genera un nuevo documento de Word titulado **Documento de preguntas frecuentes**.
 

@@ -14,7 +14,7 @@ En este laboratorio, crearemos indicaciones para Microsoft 365 Copilot que hagan
 
 Para hacerte una idea de las tendencias del mercado, primero debes comprender el rendimiento general de los productos Chai de Contoso. El primer paso es obtener información general sobre los datos e identificar las métricas clave que pueden guiar el análisis.
 
-1. Abre el archivo de ejemplo que has descargado.
+1. Abre el archivo de ejemplo que has descargado de OneDrive.
 
 1. Selecciona el icono **Copiloto** en **Inicio** para abrir el panel de Copilot.
 
@@ -40,7 +40,7 @@ Como jefe de ventas, debes identificar tendencias en los datos de ventas para to
 
 1. Revisa la respuesta de Copilot y si deseas agregar el gráfico dinámico a una nueva hoja.
 
-1. Si has agregado un nuevo gráfico dinámico, selecciona **Volver a los datos** para volver a la hoja 1.
+1. Si has agregado un nuevo gráfico dinámico, revísalo y, a continuación, selecciona **Volver a los datos** para volver a la hoja 1.
    
 1. Para obtener una vista rápida de los meses con las ventas más exitosas, escribe la siguiente indicación:
 
@@ -64,7 +64,7 @@ Para optimizar tus ofertas de productos, debes comparar las ventas de diferentes
    
 En los meses de verano las ventas pueden variar mucho. Para comprender qué tipo de té se vende mejor, puedes pedir a Copilot que determine qué categoría de producto ha tenido un mejor rendimiento en general, mediante la siguiente indicación:
 
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+   +++Resume las ventas totales (unidades) de Artisanal Chai y Premade Chai durante el verano.+++
 
 #### Ejercicio 4: Cálculo de ventas totales
 
@@ -104,7 +104,7 @@ Por último, vamos a resumir la información clave del análisis. Esta informaci
 
 Una vez que recopiles información sobre las tendencias de mercado, puedes compartir la información con las partes interesadas. Este es el modo en que Copilot en Outlook puede ayudarte a:
 
-1. **Copia** la respuesta generada por Copilot en Excel.
+1. **Copia** la respuesta de texto generada por Copilot en Excel.
 
 1. Abrir Microsoft Outlook y seleccionar **Nuevo correo electrónico**.
 

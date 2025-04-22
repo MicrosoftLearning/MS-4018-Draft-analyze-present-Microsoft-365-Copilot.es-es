@@ -14,21 +14,21 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 
 1. Inicia sesión en la máquina virtual proporcionada por el proveedor de inquilinos con la cuenta de **administrador** local con la contraseña `Pa55w.rd`.
 
-2. Abre la aplicación **OneDrive** escribiendo **OneDrive** en la barra de búsqueda de Windows.
+2. Para abrir la aplicación de **OneDrive**, escribe **OneDrive** en la barra de búsqueda de Windows.
 
-3. En el campo **Dirección de correo electrónico**, escribe userx@yourtenant.onmicrosoft.com (proporcionada por tu proveedor de inquilinos) y selecciona **Iniciar sesión**.
+3. En la solicitud de **dirección de correo**, escribe userx@yourtenant.onmicrosoft.com (proporcionado por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
 
 4. En la pantalla **Escribir contraseña**, escribe la contraseña 1 (proporcionada por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
 
-5. Si se te pide **Iniciar sesión automáticamente en todas las aplicaciones de escritorio y los sitios web de este dispositivo?** selecciona **Sí, todas las aplicaciones**.
+5. Si se te pregunta **¿Iniciar sesión automáticamente en todas las aplicaciones de escritorio y los sitios web de este dispositivo?** selecciona **Sí, todas las aplicaciones**.
 
 6. Abre la carpeta de OneDrive.
    
-7. En una nueva instancia del **Explorador de archivos**, selecciona **Este equipo** > **Disco local (C:)** y abre la carpeta **MS-4018 ResourceFiles**.
+7. En una nueva instancia del **Explorador de archivos**, selecciona **Este equipo** > ** Disco local (C:)** y abre la carpeta **ResourceFiles**.
 
-8. Selecciona todos los archivos dentro de la carpeta **MS-4018 ResourceFiles** y luego arrástralos y colócalos en la carpeta de OneDrive.
+8. Selecciona todos los archivos de la carpeta **ResourceFiles** y arrástralos y colócalos en la carpeta de OneDrive.
 
-9. Una vez completada la carga, deberías ver **Se han cargado 3 elementos en Mis archivos** en el centro inferior de la pantalla.
+9. Una vez completada la carga, deberías ver **Se han cargado 29 elementos en Mis archivos** en el centro inferior de la pantalla.
 
 
 ### Hacer referencia a archivos
