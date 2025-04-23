@@ -23,7 +23,7 @@ Vamos a crear un informe de proyecto con el análisis de mercado que ya has reco
 
 1. Escribe la siguiente indicación:
 
-    +++Crea un informe de proyecto que incluye un resumen ejecutivo, una introducción, los objetivos del proyecto y un debate.+++ Usa el documento vinculado como un recurso de contenido.+++
+    +++Crea un informe de proyecto que incluya un resumen ejecutivo, una introducción, la descripción del producto, los objetivos del proyecto y un debate. Usa el documento vinculado como un recurso de contenido.+++
 
 1. Agrega la referencia del documento a tu indicación; para ello, escribe manualmente una barra diagonal seguida del nombre del documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, puedes seleccionar **Hacer referencia a un archivo** y el archivo de la lista desplegable una vez que esté disponible en OneDrive.
    

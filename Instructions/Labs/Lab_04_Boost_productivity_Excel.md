@@ -40,7 +40,7 @@ Como jefe de ventas, debes identificar tendencias en los datos de ventas para to
 
 1. Revisa la respuesta de Copilot y si deseas agregar el gráfico dinámico a una nueva hoja.
 
-1. Si has agregado un nuevo gráfico dinámico, revísalo y, a continuación, selecciona **Volver a los datos** para volver a la hoja 1.
+1. Si has agregado un nuevo Gráfico dinámico, revisa el gráfico y, a continuación, selecciona **Volver a los datos** para volver a la hoja 1.
    
 1. Para obtener una vista rápida de los meses con las ventas más exitosas, escribe la siguiente indicación:
 
@@ -104,7 +104,7 @@ Por último, vamos a resumir la información clave del análisis. Esta informaci
 
 Una vez que recopiles información sobre las tendencias de mercado, puedes compartir la información con las partes interesadas. Este es el modo en que Copilot en Outlook puede ayudarte a:
 
-1. **Copia** la respuesta de texto generada por Copilot en Excel.
+1. **Copia** la respuesta generada por Copilot en Excel.
 
 1. Abrir Microsoft Outlook y seleccionar **Nuevo correo electrónico**.
 
@@ -118,7 +118,7 @@ Una vez que recopiles información sobre las tendencias de mercado, puedes compa
 
 1. Revisar el borrador proporcionado por Copilot y seleccionar **Reemplazar** para incluir el contenido en tu correo electrónico.
 
-1. Enviar el correo electrónico a las partes interesadas.
+Al trabajar en tu propio entorno, enviarías el correo electrónico a las partes interesadas.
 
 Ahora tienes experiencia práctica con Copilot en Excel para analizar tendencias de mercado, identificar patrones y generar información valiosa a partir de los datos. Sigue probando nuevas indicaciones en los archivos de Excel para obtener más práctica.
 

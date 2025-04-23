@@ -8,7 +8,7 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 1. Para empezar, crea un nuevo Equipo en el chat de tu equipo para esta conversación. Selecciona **Nuevo Equipo** en el menú desplegable Chat.
 
-    - Agrega el Equipo: +++Personas y cultura+++
+    - Agregar el Equipo: +++Personas y cultura+++
     - Descripción: déjela en blanco
     - Tipo de Equipo: **Privado**
     - Nombre del canal: +++Contoso Connect+++.
@@ -16,7 +16,7 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 1. Selecciona **Iniciar una publicación** para abrir la ventana de chat.
 
-1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Copia y pega el siguiente texto en el cuadro de texto: ¡Hola Equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?
+1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Copia y pega la siguiente indicación en el cuadro de diálogo de indicación de Copilot: ¡Hola Equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?
 
 1. Antes de publicar el mensaje, selecciona el icono **Reescribir con Copilot** en la parte inferior del cuadro de mensaje.
 

@@ -59,21 +59,21 @@ Ahora que ya tienes una idea de las posibles preguntas, puedes considerar tus re
 
 #### Ejercicio 5: Creación de un documento de preguntas más frecuentes
 
-Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot para crear las preguntas y respuestas en un documento de Word de preguntas más frecuentes.
+Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot en Word para crear las preguntas y respuestas en un documento de Word de preguntas más frecuentes.
 
 1. En la misma ventana de Copilot Chat, indica lo siguiente a Copilot: 
 
-    +++Crea un documento de Word .docx con esta salida.+++
+    +++Crea un documento de Word con esta salida.+++
 
-    Copilot genera un nuevo documento de Word titulado **Documento de preguntas frecuentes**.
+    Copilot genera un nuevo documento de Word titulado **Documento de preguntas más frecuentes**.
 
 1. Abre este documento para revisarlo.
 
 1. Habilita la edición para comprobar y actualizar el documento según sea necesario. 
 
-1. Selecciona **Archivo > Guardar como**. Examina y navega a la carpeta de OneDrive.
+1. Selecciona **Archivo > Guardar como**. Explora y ve a la carpeta de OneDrive.
 
-1. Guarde el documento como **Documento de preguntas frecuentes**.
+1. Guarda el documento como **Documento de preguntas más frecuentes**.
    
 #### (Opcional) Ejercicio 6: Envío de un correo electrónico de agradecimiento con Copilot en Outlook
 
