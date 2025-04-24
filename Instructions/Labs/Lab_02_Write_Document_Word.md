@@ -11,9 +11,26 @@ En este laboratorio, crearemos indicaciones para Microsoft 365 Copilot que hagan
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
+#### (Opcional) Ejercicio 1: Importación de notas 
 
+1. Abre Microsoft Word en el explorador [word.new](https://word.new) o usa la aplicación de escritorio y crea un nuevo documento.
 
-#### Ejercicio 1: Redacción del contenido
+1. Activa Copilot seleccionando el botón Copilot en la pestaña **Inicio**.
+
+    > [!NOTE]
+    > Si no tienes notas que deseas importar, ve a **Redacción del contenido**.
+
+1. En el panel de Copilot, escribe la indicación siguiente:
+
+    +++Redacta una actualización del informe de proyecto basándote en las notas sobre Mystic Spice Premium Chai Tea en OneNote.+++
+
+    Copilot extraerá la información solicitada de OneNote y redactará el comienzo del informe en el panel de Copilot.
+
+1. Selecciona la opción **Insertar** para copiar este texto en el documento de Word.
+
+Aunque es un buen comienzo, la presentación de información basada en notas no funcionará. Veamos cómo Copilot en Word puede ayudarte a crear un informe para compartirlo con las partes interesadas.
+
+#### Ejercicio 2: Redacción del contenido
 
 Vamos a crear un informe de proyecto con el análisis de mercado que ya has recopilado. A continuación, podemos editar este archivo para obtener el contenido que necesitamos para nuestro informe.
 
@@ -23,9 +40,9 @@ Vamos a crear un informe de proyecto con el análisis de mercado que ya has reco
 
 1. Escribe la siguiente indicación:
 
-    +++Crea un informe de proyecto que incluya un resumen ejecutivo, una introducción, la descripción del producto, los objetivos del proyecto y un debate. Usa el documento vinculado como un recurso de contenido.+++
+    +++Crea un informe de proyecto que incluye un resumen ejecutivo, una introducción, los objetivos del proyecto y un debate. Usa el documento vinculado como un recurso de contenido.+++
 
-1. Agrega la referencia del documento a tu indicación; para ello, escribe manualmente una barra diagonal seguida del nombre del documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, puedes seleccionar **Hacer referencia a un archivo** y el archivo de la lista desplegable una vez que esté disponible en OneDrive.
+1. Agrega la referencia del documento a la indicación escribiendo manualmente una barra diagonal seguida del nombre del documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, puedes seleccionar **Hacer referencia a un archivo** y el archivo de la lista desplegable una vez que esté disponible en OneDrive.
    
 1. Seleccione **Generar**.
 
@@ -48,7 +65,7 @@ Vamos a crear un informe de proyecto con el análisis de mercado que ya has reco
 
 1. Revise las opciones reescritas, elija la que prefiera y seleccione **Reemplazar**.
 
-#### Ejercicio 2: Conversión de texto a una tabla
+#### Ejercicio 3: Conversión de texto a una tabla
 
 Aunque el contenido del documento puede ser preciso, tenga en cuenta su legibilidad. ¿Funcionaría mejor una sección si se presentara como una tabla? Si se le indica, Copilot puede convertir fácilmente texto en una tabla.
 
@@ -70,15 +87,15 @@ Veamos esta transformación en acción.
 
 1. Revise el formato de tabla y realice los ajustes necesarios.
 
-#### Ejercicio 3: Resumen del documento
+#### Ejercicio 4: Resumen del documento
 
 A medida que complete el documento, desea asegurarse de que los puntos clave se presentan claramente. Una buena manera de hacerlo es ver un resumen del documento. Del mismo modo, si recibes un documento de Word extenso que no tienes tiempo de leer en su totalidad, la función de resumen es clave. Vamos a crear un resumen al final del documento.
 
-1. Abre el panel Copilot y escribe la siguiente indicación:
+1. Abre el panel de Copilot y escribe la siguiente indicación:
 
     +++Resume este documento. Resalta los tres puntos principales realizados.+++
 
-1. Revisa el resumen generado y selecciona **Insertar** si quieres incluir el resumen completo en el documento. También puede resaltar cualquier parte del texto para luego copiarlo y pegarlo en el documento.
+1. Revisa el resumen generado y selecciona **Insertar** si quieres incluir el resumen completo en el documento. También puedes resaltar cualquier parte del texto y, a continuación, copiarlo y pegarlo en el documento.
 
 > [!IMPORTANT]
 > El texto que genera Copilot se inserta en la ubicación del cursor en el documento. Asegúrese de haber navegado hasta el final del documento antes de seleccionar insertar el contenido.
