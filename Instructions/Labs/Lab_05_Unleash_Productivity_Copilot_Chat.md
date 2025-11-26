@@ -9,9 +9,9 @@ Imagina que vas a hacer una entrevista para un puesto en Contoso, una empresa me
 
 Usa Copilot Chat en Teams para recopilar información sobre el entrevistador y su rol. Esta investigación te ayuda a hacerte una mejor idea de con quién vas a hablar y cuáles son sus responsabilidades. Siempre es recomendable conocer un poco a la persona que está al otro lado de la mesa.
 
-1.  Abre Microsoft Teams, para ello, ve a la siguiente dirección URL: [teams.microsoft.com](https://teams.microsoft.com) o a través de la aplicación de escritorio.
+1. Abre Microsoft Teams, para ello, ve a la siguiente dirección URL: [teams.microsoft.com](https://teams.microsoft.com) o a través de la aplicación de escritorio.
 
-1.  Selecciona el icono de Copilot Chat en la parte izquierda de la pantalla.
+1. Selecciona el icono de Copilot Chat en la parte izquierda de la pantalla.
 
 1. Asegúrate de que el control de alternancia de la parte superior de la pantalla está en **Web**.
 
@@ -39,7 +39,7 @@ A medida que conoces la empresa, ves que este puesto podría ser una gran oportu
 
 1. Continúa en Copilot Chat.
 
-1. Escribe la siguiente indicación:
+1. Escriba lo siguiente:
 
     +++Genera una lista de posibles preguntas que puedo hacer en la entrevista.+++
 
@@ -59,22 +59,22 @@ Ahora que ya tienes una idea de las posibles preguntas, puedes considerar tus re
 
 #### Ejercicio 5: Creación de un documento de preguntas más frecuentes
 
-Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot en Word para crear las preguntas y respuestas en un documento de Word de preguntas más frecuentes.
+Estas respuestas son estupendas y te sientes seguro antes de la entrevista. Ahora, vamos a crear una fuente única de la verdad a la que hacer referencia en un momento posterior. Usa Copilot para crear las preguntas y respuestas en un documento de Word de preguntas más frecuentes.
 
-1. En la misma ventana de Copilot Chat, indica lo siguiente a Copilot: 
+1. En la misma ventana chat de Copilot, pida a Copilot que:
 
-    +++Crea un documento de Word con esta salida.+++
+    +++Crea un documento de Word .docx con esta salida.+++
 
     Copilot genera un nuevo documento de Word titulado **Documento de preguntas más frecuentes**.
 
 1. Abre este documento para revisarlo.
 
-1. Habilita la edición para comprobar y actualizar el documento según sea necesario. 
+1. Habilita la edición para comprobar y actualizar el documento según sea necesario.
 
 1. Selecciona **Archivo > Guardar como**. Explora y ve a la carpeta de OneDrive.
 
 1. Guarda el documento como **Documento de preguntas más frecuentes**.
-   
+
 #### (Opcional) Ejercicio 6: Envío de un correo electrónico de agradecimiento con Copilot en Outlook
 
 1. Abre Outlook y selecciona el botón **Nuevo correo electrónico** para empezar a redactar tu nota de agradecimiento.

@@ -18,15 +18,19 @@ Para hacerte una idea de las tendencias del mercado, primero debes comprender el
 
 1. Selecciona el icono **Copiloto** en **Inicio** para abrir el panel de Copilot.
 
-1. Escribe la siguiente indicación:
+1. Escriba lo siguiente:
 
     +++Resume el conjunto de datos y proporciona información general sobre las métricas clave.+++
 
-    Copilot responde con una tabla que puedes agregar a una hoja nueva y una respuesta que detalla las métricas clave.
+    Copilot responde con un conjunto detallado de conclusiones importantes, esencialmente un resumen ejecutivo, de los datos. Muestra patrones e interpretaciones de los datos y los pasos siguientes recomendados. A partir de esta respuesta, puede pedir a Copilot:
+
+    "Crea una tabla que muestre los patrones clave de los datos".
+
+    Copilot crea una tabla que contiene una columna adicional que muestra patrones clave.
 
 1. Selecciona **Agregar a una nueva hoja** para incluir estos datos en tu libro de Excel.
 
-1. Revisa la tabla. Cuando hayas terminado, selecciona **Volver a los datos** para volver a la hoja 1.
+1. Revisa la tabla. Cuando haya terminado, vuelva a la hoja 1.
 
 #### Ejercicio 2: Identificación de tendencias de ventas
 
@@ -38,15 +42,9 @@ Como jefe de ventas, debes identificar tendencias en los datos de ventas para to
 
     +++Muestra un gráfico de líneas de ventas totales de Chai (unidades) durante los meses.+++
 
-1. Revisa la respuesta de Copilot y si deseas agregar el gráfico dinámico a una nueva hoja.
+1. Revise la respuesta de Copilot, que incluye el gráfico y el resumen de texto y, si lo desea, agregue el gráfico de líneas a una nueva hoja.
 
-1. Si has agregado un nuevo Gráfico dinámico, revisa el gráfico y, a continuación, selecciona **Volver a los datos** para volver a la hoja 1.
-   
-1. Para obtener una vista rápida de los meses con las ventas más exitosas, escribe la siguiente indicación:
-
-    +++Resalta los tres meses con las ventas totales más altas.+++
-
-1. **Apliqua** la regla de formato condicional. Copilot destaca las celdas como se indica.
+1. Si agregó el gráfico de líneas, revise el gráfico y vuelva a la hoja 1.
 
 #### Ejercicio 3: Comparación de ventas de productos
 
@@ -58,10 +56,10 @@ Para optimizar tus ofertas de productos, debes comparar las ventas de diferentes
 
     +++Crea un gráfico de barras comparando las ventas de Artisanal Chai (unidades) y las ventas de Premade Chai (unidades) de cada mes.+++
 
-1. Copilot muestra el gráfico de barras. Selecciona **Agregar a una nueva hoja**.
+1. Copilot muestra el gráfico de barras.  Tenga en cuenta que Copilot también proporciona conclusiones en su respuesta. Seleccione **Agregar a una nueva hoja** para incluir el gráfico en el libro de Excel.
 
-1. Una vez que hayas revisado los resultados del gráfico de barras, selecciona **Volver a los datos** para volver a la hoja 1.
-   
+1. Cuando haya revisado los resultados del gráfico de barras, vuelva a la hoja 1.
+
 En los meses de verano las ventas pueden variar mucho. Para comprender qué tipo de té se vende mejor, puedes pedir a Copilot que determine qué categoría de producto ha tenido un mejor rendimiento en general, mediante la siguiente indicación:
 
    +++Resume las ventas totales (unidades) de Artisanal Chai y Premade Chai durante el verano.+++
@@ -74,25 +72,12 @@ Comprender el total de ventas es fundamental para evaluar el éxito de tus estra
 
 1. Indica lo siguiente a Copilot:
 
-    +++Calcula las ventas de cada trimestre y agrégalas como una nueva columna.+++
+    "Calcula las ventas totales por trimestre".
 
-1. Selecciona **Insertar columnas**.
+1. Seleccione **Agregar a la nueva hoja**.
+1. Revise las ventas totales y vuelva a la hoja 1.
 
-#### Ejercicio 5: Análisis de la interacción en redes sociales
-
-En la era digital actual, la interacción en las redes sociales puede tener un impacto significativo en las ventas. Vamos a examinar la relación entre la interacción en las redes sociales y las ventas de Chai para identificar las posibles correlaciones que puedan ayudar a aumentar las ventas.
-
-1. Continúa en el panel de Copilot abierto.
-
-1. Determina si hay una correlación entre las búsquedas en línea y las ventas de Chai escribiendo la siguiente indicación:
-
-    +++Identifica las correlaciones entre las búsquedas en línea de Chai y las ventas totales de Chai (unidades).+++
-
-    Copilot genera un gráfico que muestra las tendencias. Además, Copilot responde con un texto que indica que hay una correlación alta, lo que te permite obtener información instantánea sobre los datos de ventas complicados.
-
-1. Selecciona **Agregar a la hoja** para incluir esta información en la tabla.
-
-#### Ejercicio 6: Generación de información
+#### Ejercicio 5: Generar conclusiones
 
 Por último, vamos a resumir la información clave del análisis. Esta información te ayuda a tomar decisiones basadas en datos para impulsar el crecimiento de las ventas de Contoso.
 
@@ -100,11 +85,11 @@ Por último, vamos a resumir la información clave del análisis. Esta informaci
 
     +++Proporciona un resumen de la información clave obtenida del análisis de los datos de tendencias de mercado de Contoso Chai Tea.+++
 
-#### Ejercicio 7: Envío de información al equipo
+#### Ejercicio 6: Enviar las conclusiones al equipo
 
 Una vez que recopiles información sobre las tendencias de mercado, puedes compartir la información con las partes interesadas. Este es el modo en que Copilot en Outlook puede ayudarte a:
 
-1. **Copia** la respuesta generada por Copilot en Excel.
+1. **Copia** la respuesta de texto generada por Copilot en Excel.
 
 1. Abrir Microsoft Outlook y seleccionar **Nuevo correo electrónico**.
 
@@ -112,7 +97,7 @@ Una vez que recopiles información sobre las tendencias de mercado, puedes compa
 
 1. Seleccionar el icono **Copiloto** en la ventana de correo electrónico.
 
-1. Escribe la siguiente indicación:
+1. Escriba lo siguiente:
 
     +++Redacta un correo electrónico para mi equipo que resuma los puntos clave de nuestro análisis reciente sobre las tendencias de mercado de Contoso Chai Tea.+++
 

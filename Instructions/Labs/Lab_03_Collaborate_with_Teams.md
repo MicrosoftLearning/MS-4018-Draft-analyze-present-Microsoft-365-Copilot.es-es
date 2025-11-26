@@ -4,19 +4,20 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 #### Ejercicio 1: Escribir un mensaje atractivo para presentar tu idea
 
-1. Abre Microsoft Teams, para ello, ve a la siguiente dirección URL: [teams.microsoft.com](https://teams.microsoft.com) o a través de la aplicación de escritorio.
+1. Abra Microsoft Teams; para ello, vaya a la siguiente dirección URL: [teams.cloud.microsoft](https://teams.cloud.microsoft).
 
 1. Para empezar, crea un nuevo Equipo en el chat de tu equipo para esta conversación. Selecciona **Nuevo Equipo** en el menú desplegable Chat.
 
     - Agregar el Equipo: +++Personas y cultura+++
     - Descripción: déjela en blanco
     - Tipo de Equipo: **Privado**
-    - Nombre del canal: +++Contoso Connect+++.
-    - Agregar miembros: selecciona **Omitir**
+    - Nombre del canal: "Contoso Connect"
 
-1. Selecciona **Iniciar una publicación** para abrir la ventana de chat.
+1. Seleccione **Generar** y, cuando se le pida que agregue miembros, seleccione **Omitir**.
 
-1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Copia y pega la siguiente indicación en el cuadro de diálogo de indicación de Copilot: ¡Hola Equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?
+1. Seleccione **Publicar en el canal** para abrir la ventana de mensajes.
+
+1. Escriba el mensaje en el cuadro situado en la parte inferior del chat o canal. Copia y pega el siguiente texto en el cuadro de texto: ¡Hola Equipo! He estado pensando en Contoso Connect y en cómo podemos hacer que el lanzamiento del producto sea más emocionante para nuestros clientes. Tengo un par de ideas y me gustaría escuchar a cada miembro del equipo. ¿Qué creéis que haría que nuestros clientes estuvieran encantados y listos para trabajar con Connect?
 
 1. Antes de publicar el mensaje, selecciona el icono **Reescribir con Copilot** en la parte inferior del cuadro de mensaje.
 
@@ -26,7 +27,7 @@ Imagina que eres administrador de Contoso. Su equipo se basa en una comunicació
 
 1. Seleccione **Ajustar** y, a continuación, seleccione las opciones que Copilot presenta para editar y actualizar el mensaje. Puedes personalizar el mensaje si sigue sin estar del todo bien.
 
-1. Seleccione **Personalizar** en la opción **Ajustar**. Prueba tonos personalizados como +++instructivo+++ o +++atractivo+++.
+1. Seleccione **Personalizar** en la opción **Ajustar**. Prueba tonos personalizados como +++instructivo+++ o +++atractivo+++. Seleccione el botón de flecha derecha para enviar el cambio.
 
 1. Selecciona **Reemplazar** si el nuevo mensaje te satisface. Si seleccionó una sección parcial, solo ese texto se actualiza.
 
@@ -44,23 +45,17 @@ Ahora quieres programar una reunión para intercambiar ideas sobre algunos comen
 
 1. Pide a Copilot que sugiera el mejor momento para la reunión; para ello, escribe el siguiente mensaje:
 
-    +++Programar una reunión la próxima semana en función de mi disponibilidad.+++
+    "Borrador de una invitación a una reunión para hablar sobre el próximo lanzamiento del producto, revisar la escala de tiempo del proyecto y asignar tareas".
 
-1. Revisa la hora sugerida.
-
-1. Selecciona **Editar** para agregar contexto a la invitación a la reunión.
-
-1. Selecciona la opción **Borrador con Copilot** y escribe el siguiente mensaje:
-
-    +++para analizar el próximo lanzamiento del producto, revisar la escala de tiempo del proyecto y asignar tareas.+++
-
-    Una vez hecho esto, selecciona **Generar** o presiona Entrar en el teclado.
-
-1. Copilot creará un borrador de la invitación a la reunión. Revisa la sugerencia, pero no selecciones **Conservarlo**. En su lugar, escribe la siguiente indicación:
+1. Copilot crea un borrador de la invitación a la reunión. Revisa la sugerencia, pero no selecciones **Conservarlo**. En su lugar, escribe la siguiente indicación:
 
     +++Reescribe este correo electrónico en un tono profesional.+++
 
-1. Revisa la sugerencia de Copilot y selecciona **Conservarlo**.
+1. Revise la sugerencia de Copilot. Una vez que esté satisfecho con los resultados, pida a Copilot:
+
+    "Programa esta reunión en función de mi disponibilidad la próxima semana".
+
+1. Seleccione el tiempo que mejor le convenga. **Confirme** en función de los detalles de la respuesta de Copilot. Copilot agrega la reunión al calendario. A continuación, puede acceder a los detalles de la reunión desde su calendario e invitar a los asistentes, activar el facilitador de la reunión y permitir que Copilot reprograme la reunión si surgen conflictos.
 
 Con las funcionalidades de Copilot en Teams, puedes redactar, reescribir y ajustar mensajes sin esfuerzo, recopilar información de chats de equipo y programar reuniones de forma eficaz. Ahora, puedes usar con confianza estas herramientas para simplificar el flujo de trabajo y lograr tus objetivos de colaboración con facilidad.
 

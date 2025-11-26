@@ -14,22 +14,15 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 
 1. Inicia sesión en la máquina virtual proporcionada por el proveedor de inquilinos con la cuenta de **administrador** local con la contraseña `Pa55w.rd`.
 
-2. Para abrir la aplicación de **OneDrive**, escribe **OneDrive** en la barra de búsqueda de Windows.
+1. Abra un explorador **Microsoft Edge** y vaya a [Onedrive](https://onedrive.live.com/login/). Escriba las credenciales proporcionadas para iniciar sesión.
 
-3. En la solicitud de **dirección de correo**, escribe userx@yourtenant.onmicrosoft.com (proporcionado por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
+1. Seleccione **Su OneDrive está listo** y, a continuación, seleccione **Crear o cargar > Carga de archivos**.
 
-4. En la pantalla **Escribir contraseña**, escribe la contraseña 1 (proporcionada por el proveedor de inquilinos) y selecciona **Iniciar sesión**.
+1. En el **Explorador de archivos**, seleccione **Este PC** > **Disco local (C:)** y abra la carpeta **MS -4018 ResourceFiles**.
 
-5. Si se te pregunta **¿Iniciar sesión automáticamente en todas las aplicaciones de escritorio y los sitios web de este dispositivo?** selecciona **Sí, todas las aplicaciones**.
+1. Seleccione todos los archivos de la carpeta **MS-4018 ResourceFiles** y, a continuación, seleccione **Abrir**.
 
-6. Abre la carpeta de OneDrive.
-   
-7. En una nueva instancia del **Explorador de archivos**, selecciona **Este equipo** > ** Disco local (C:)** y abre la carpeta **ResourceFiles**.
-
-8. Selecciona todos los archivos de la carpeta **ResourceFiles** y arrástralos y colócalos en la carpeta de OneDrive.
-
-9. Una vez completada la carga, deberías ver **Se han cargado 29 elementos en Mis archivos** en el centro inferior de la pantalla.
-
+1. Una vez completada la carga, deberías ver **Se han cargado 3 elementos en Mis archivos** en el centro inferior de la pantalla.
 
 ### Hacer referencia a archivos
 
